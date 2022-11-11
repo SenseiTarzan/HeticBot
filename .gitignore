@@ -1,5 +1,5 @@
 # Auto detect text files and perform LF normalization
-*
+**
 !src/*
 !README.md
 !tsconfig.json
@@ -7,3 +7,4 @@
 !.gitattributes
 !package.json
 
+resources/config.yml
