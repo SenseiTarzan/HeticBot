@@ -4,3 +4,4 @@ resources/config.yml
 node_modules
 dist
 package-lock.json
+.idea
