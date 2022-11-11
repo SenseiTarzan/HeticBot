@@ -1,8 +1,9 @@
 # Auto detect text files and perform LF normalization
-* text=auto
-resources/config.yml
-node_modules
-dist
-package-lock.json
-.idea
-resources/config.yml
+*
+!src/*
+!README.md
+!tsconfig.json
+!.gitignore
+!.gitattributes
+!package.json
+
