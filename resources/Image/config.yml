@@ -1,0 +1,12 @@
+pat:
+    url: 'https://some-random-api.ml/animu/pat'
+    jsonFormat: '{link: url}'
+hug:
+    url: 'https://some-random-api.ml/animu/hug'
+    jsonFormat: '{link: url}'
+face-palm:
+    url: 'https://some-random-api.ml/animu/face-palm'
+    jsonFormat: '{link: url}'
+wink:
+    url: 'https://some-random-api.ml/animu/wink'
+    jsonFormat: '{link: url}'
